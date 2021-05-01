@@ -36,6 +36,9 @@ A client-server pipeline implemented with pyro5, tinyDb and serpent for multi-us
 	- os
 	- tinydb
 	
+- Pyro name server: Run the command 'pyro5-ns' on a terminal window.
+- Server side: Run python server.py in server directory.
+- Client side: Run python person.py in client directory. This file can be run from anywhere. Follow instructions that pop up
 
 - 
 ## Scope of improvement
