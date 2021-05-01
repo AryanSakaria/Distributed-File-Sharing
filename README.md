@@ -1,6 +1,14 @@
 # Distributed-File-Sharing
 
-A client-server pipeline implemented with pyro5, tinyDb and serpent for multi-user file sharing
+A client-server pipeline implemented with pyro5, tinyDb and serpent for multi-user file sharing.
+
+## Course project
+
+Team members:
+- Kripa Anne
+- Prafullit Jain
+- Shreyas Shankar
+- Aryan Sakaria
 
 ## Description
 - The project has two components, the server side and client side. All files uploaded are stored in the directory where the server resides. A client can be run from any location, and files relative to the client directory can be specified to be uploaded to the directory. Files downloaded from the server reside on the clients local directory
@@ -40,6 +48,6 @@ A client-server pipeline implemented with pyro5, tinyDb and serpent for multi-us
 - Server side: Run python server.py in server directory.
 - Client side: Run python person.py in client directory. This file can be run from anywhere. Follow instructions that pop up
 
-- 
+
 ## Scope of improvement
 - Delete functionality : Deleting files
